@@ -34,9 +34,9 @@
    * Explain why it's essential for new engineers (in your own words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+mkdir() ,rmdir() Which is important for structuring files and directories in Linux operating systems
 
 2. After one and a half years in the ISNE program, what advice would you give to prospective ISNE students? (Minimum 50 words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+Understand the basics. Focus on Networking, Linux commands and programming as they are the foundations of the branch, Dare to ask questions and seek information. If in doubt, do not hesitate to ask your teacher or seniors, and also use online resources to your advantage So I love ISNE and everyone
